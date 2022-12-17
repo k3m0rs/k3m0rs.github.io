@@ -4,24 +4,29 @@ body {background-color: #cccccc;
 }
     .cim {color: #000000;
         float: none;
+        opacity: 0.8;
         margin-top: 50px;}
 
         .iro {color: #3a1855;
+            opacity: 0.8;
             font-size: smaller;
             font-style: oblique;
             margin-bottom: 20px;}
 
          .alcim {color: #611d8f;
             font-size: larger;
+             opacity: 0.8;
              float: none;
              margin-top: 15px;
-              margin-bottom: 20px;}
+             margin-bottom: 20px;}
 
             .szoveg1 {color: #000000;
                   float: none;
+                  opacity: 0.8;
                   margin-left: 20px;
                   margin-right: 20px;}
         
             .szoveg2 {color: rgb(95, 22, 90);
                     float:none;
+                    opacity: 0.8;
                     font-size: medium;}
