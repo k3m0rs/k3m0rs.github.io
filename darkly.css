@@ -1,6 +1,6 @@
-body {background-color: #cccccc;
-        opacity: 0.3;
-        background-image:  repeating-radial-gradient( circle at 0 0, transparent 10, #cccccc 13px ), repeating-linear-gradient( #a7a7b155, #a7a7b1 );
+body {background-color: #c5c5c5;
+        opacity: 0.8;
+        background-image:  repeating-radial-gradient( circle at 0 1, transparent 5`, #cccccc 13px ), repeating-linear-gradient( #a7a7b155, #a7a7b1 );
 }
     .cim {color: #000000;
         float: none;
