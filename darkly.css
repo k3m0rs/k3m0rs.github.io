@@ -1,32 +1,32 @@
-body {background-color: #c5c5c5;
-        opacity: 0.8;
-        background-image:  repeating-radial-gradient( circle at 0 1, transparent 5`, #cccccc 13px ), repeating-linear-gradient( #a7a7b155, #a7a7b1 );
+body {background-color: #C3C0C9;
+        opacity: 0.9;
+        background-image:  repeating-radial-gradient( circle at 0 0, transparent 5, #cccccc 13px ), repeating-linear-gradient( #a7a7b155, #a7a7b1 );
 }
     .cim {color: #000000;
         float: none;
-        opacity: 0.8;
+        opacity: 1;
         margin-top: 50px;}
 
         .iro {color: #3a1855;
-            opacity: 0.8;
+            opacity: 1;
             font-size: smaller;
             font-style: oblique;
             margin-bottom: 20px;}
 
          .alcim {color: #611d8f;
             font-size: larger;
-             opacity: 0.8;
+             opacity: 1;
              float: none;
              margin-top: 15px;
              margin-bottom: 20px;}
 
             .szoveg1 {color: #000000;
                   float: none;
-                  opacity: 0.8;
+                  opacity: 1;
                   margin-left: 20px;
                   margin-right: 20px;}
         
             .szoveg2 {color: rgb(95, 22, 90);
                     float:none;
-                    opacity: 0.8;
+                    opacity: 1;
                     font-size: larger;}
