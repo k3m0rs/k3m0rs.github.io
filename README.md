@@ -7,14 +7,14 @@
    
     <style></style>
     
-    <link rel="stylesheet" href="ccs/darkly.css">
+    <link rel="stylesheet" href="darkly.css">
   </head>
 
   <body> 
     <div class="cim"><h1><center>A Scanner Darkly</center> </h1> </div>
     <div class="iro"><h1><center>Philip K. Dick</center></h1></div>
     
-    <div><center><img src="images/cover.jpg" width="300"></center></div>
+    <div><center><img src="cover.jpg" width="300"></center></div>
     <div class="alcim"><h2><center>Chapter 1</center> </h2> </div>
     <div class="szoveg1">
        
@@ -30,6 +30,6 @@
     </div>
     <div class="szoveg2">
             <p><en><center>He’d just smile.</center></en></p>
-            <center><img src="images/aphid.jpg" width="500"></center></div>
+            <center><img src="aphid.jpg" width="500"></center></div>
   </body>
 </html>
